@@ -1,4 +1,4 @@
-#Rails Sample App
+# Rails Sample App
 
 Things you will need:
 
